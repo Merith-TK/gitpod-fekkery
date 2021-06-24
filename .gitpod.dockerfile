@@ -1,1 +1,1 @@
-FROM abyssos/abyss
+FROM alpine/alpine
