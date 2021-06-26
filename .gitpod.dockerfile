@@ -1,1 +1,1 @@
-FROM archlinux
+FROM alpine:latest
